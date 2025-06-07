@@ -1,5 +1,2 @@
 # TrabalhoRicardo
 
-oiii
-
-##tchau
