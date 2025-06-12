@@ -1,7 +1,7 @@
 # ADS Turma 2
 ## Vinicius Araujo Ventura
 
-Lista de Exercicios 01
+Lista de Exercicios POO
 
 - [x] Tarefa 1 (concluída)
 - [x] Tarefa 2 (concluída)
